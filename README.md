@@ -56,12 +56,6 @@
   </picture>
   <br>
 
-  <!-- Space Shooter Banner -->
-  <picture>
-    <img align="center" style="width: 100vw;" src="space-shooter.webp" alt="Github Space Shooter" />
-  </picture>
-  <br>
-
   <!-- Snake Animation -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jenish995/Jenish995/output/github-contribution-grid-snake-dark.svg">
