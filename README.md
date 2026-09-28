@@ -1,5 +1,9 @@
 <div align="center">
 
+  <!-- Typing Animation Introduction -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=50&lines=Hello+World!+%F0%9F%91%8B;I+am+Jenish+Adhikari;I+am+a+Full+Stack+Developer;Welcome+to+my+GitHub+Profile!+%F0%9F%9A%80" alt="Typing SVG" />
+  <br/><br/>
+
   <!-- Profile Details Summary Card -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jenish995&theme=dark&hide_border=true" />
